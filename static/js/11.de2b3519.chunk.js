@@ -1,1 +1,0 @@
-(this.webpackJsonpyam=this.webpackJsonpyam||[]).push([[11],{610:function(p,s){}}]);
